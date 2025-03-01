@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions of the world!",
-  "description": "Base Level Extension",
+  "name": "Word Warper",
+  "description": "Replaces all occurrences of a source word with a target word.",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
